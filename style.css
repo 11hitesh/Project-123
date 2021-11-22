@@ -1,0 +1,27 @@
+.heading
+{
+    background-color: orange;
+    font-family:"lato,sans-serif";
+    color:white;
+}
+
+
+.note
+{
+    color:red;
+}
+
+
+body
+{
+    background-color:cyan ;
+}
+
+.copyright
+{
+    margin-top:600px;
+    background-color: grey;
+    height:80px;
+    text-align:center;
+    padding-top:20px;
+}
